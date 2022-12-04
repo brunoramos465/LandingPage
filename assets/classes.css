@@ -1,9 +1,9 @@
 
 .main-bg {
-    background-image: url(img/main-bg.svg);
     background-size: cover;
     background-position: center center;
     color:var(--white-color);
+    background-image: url(img/main-bg.svg);
 }
 
 .white-bg {
